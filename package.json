@@ -7,9 +7,25 @@
     "typescript": "^4.2.4"
   },
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1"
   },
   "scripts": {
-    "start": "nodemon"
-  }
+    "start": "node .",
+    "start:nodemon": "nodemon"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fish895623/express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fish895623/express/issues"
+  },
+  "homepage": "https://github.com/fish895623/express#readme",
+  "description": ""
 }
