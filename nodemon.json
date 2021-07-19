@@ -1,4 +1,3 @@
 {
-  "exec": "./node_modules/.bin/ts-node src/index.ts",
   "delay": "2000"
 }
